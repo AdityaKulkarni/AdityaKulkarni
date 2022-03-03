@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaKulkarni
-- 👀 I’m interested in Android, React and NodeJS
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Android or ReactJS projects.
+- 👀 I’m interested in Android, NodeJS and Go
+- 🌱 I’m currently learning Android, Go
+- 💞️ I’m looking to collaborate on Android or Go projects.
 - 📫 How to reach me kulkarniaditya1997@gmail.com
 
 <!---
