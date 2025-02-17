@@ -7,6 +7,7 @@ I'm a **passionate software engineer** with expertise in full-stack development 
 - **Languages**: Java, TypeScript, JavaScript, Kotlin, C, C++
 - **Frontend**: ReactJS, React Native, HTML, CSS
 - **Backend**: NodeJS, Express.js, Django, Flask
+- **Mobile**: Java, Kotlin, React Native
 - **Cloud**: AWS (EC2, S3, Lambda), Azure, GCP
 - **Databases**: MySQL, MongoDB, Firebase, PostgreSQL
 
